@@ -1,0 +1,19 @@
+.h-container{
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+    width: 100%;
+    
+}
+.side-nav{
+    flex: 1;
+}
+
+.content-container{
+   background-color: aliceblue;
+   flex: 3;
+   
+}
+h1{
+    text-align: center;
+}
